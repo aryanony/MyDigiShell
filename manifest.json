@@ -1,0 +1,24 @@
+{
+  "name": "My DigiShell - Digital Solutions",
+  "short_name": "MyDigiShell",
+  "description": "Complete digital services including Web Development, Blockchain, Hosting, and Marketing.",
+  "lang": "en",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#081854",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/assets/images/mydigishell-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/mydigishell-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
