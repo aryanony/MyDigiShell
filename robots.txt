@@ -1,0 +1,8 @@
+# robots.txt for https://www.mydigishell.com
+
+User-agent: *
+Disallow: /404.html
+Disallow: /private/
+Allow: /
+
+Sitemap: https://www.mydigishell.com/sitemap.xml
